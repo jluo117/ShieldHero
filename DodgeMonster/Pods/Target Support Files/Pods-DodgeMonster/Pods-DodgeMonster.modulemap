@@ -1,0 +1,6 @@
+framework module Pods_DodgeMonster {
+  umbrella header "Pods-DodgeMonster-umbrella.h"
+
+  export *
+  module * { export * }
+}
